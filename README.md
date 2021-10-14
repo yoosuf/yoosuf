@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on cloud projects and blockchain
 - 💬 Ask me about anything
 - 📫 How to reach me: contact me via email
+- I am currently based in 🇱🇰, althogh I have lived in 🇬🇧 🇸🇬 🇧🇩 🇲🇾 🇦🇪
