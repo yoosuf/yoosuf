@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on cloud projects and blockchain
 - 💬 Ask me about anything
 - 📫 How to reach me: contact me via email
-- Currently based in 🇱🇰, althogh I have lived in 🇬🇧 🇸🇬 🇧🇩 🇲🇾 🇦🇪 
+- Currently based in 🇱🇰, although I have lived in 🇬🇧 🇸🇬 🇧🇩 🇲🇾 🇦🇪
 - Open for relocation and preferred countries are 🇺🇸 🇨🇦 🇦🇺 🇩🇪 or any scandinavian countries.
