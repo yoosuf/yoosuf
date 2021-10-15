@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: contact me via email
 - Currently based in 🇱🇰, althogh I have lived in 🇬🇧 🇸🇬 🇧🇩 🇲🇾 🇦🇪 
-- Oen for reloacation and preffered countries are 🇺🇸 🇨🇦 🇦🇺 🇩🇪 or any scandinavian countries.
+- Open for reloacation and preffered countries are 🇺🇸 🇨🇦 🇦🇺 🇩🇪 or any scandinavian countries.
