@@ -1,17 +1,7 @@
 
 ### Hi there 👋
 
-I am a software consultant and developer with expertise in multiple programming languages and technologies, including;
-
-* TypeScript, NodeJS (Express, NestJS), ReactJS, ReactNative, 
-* TailWind
-* Ruby (Ruby on Rails, SCSS, Slim)
-* PHP (Laravel, Symfony php)
-* Cloud Infrastuture (AWS, Azure)
-* Database (Postgres, MySQL and MongoDB)
-* Search (ElasticSearch, OpenSearch)
-* PubSub (Redis)
-* API (GraphQL, REST)
+I am an innovater and a problem solver with expertise in fullstack development.
  
 I am passionate about developing high-quality software products and collaborating with other developers to build innovative solutions. Feel free to browse my repositories and contributions. Let's connect and build something great together!
 
