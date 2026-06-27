@@ -1,19 +1,6 @@
-<div align="center">
-
 # 👋 Hi, I'm Yoosuf
 
 ### Senior Full-Stack Developer · Open Source · AI & Cloud
-
-[![Website](https://img.shields.io/badge/yoosuf.me-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yoosuf.me)
-[![Email](https://img.shields.io/badge/mayoosuf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayoosuf@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yoosufmo)
-[![Twitter](https://img.shields.io/badge/@yoosuf__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoosuf_)
-[![Upwork](https://img.shields.io/badge/Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/yoosuf)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yoosuf)
-
----
-
-</div>
 
 ## 🚀 What I Do
 
@@ -37,7 +24,6 @@ I'm **available for freelance projects, contract work, and collaborations**. Whe
 
 <br>
 
-[![Hire me on Upwork](https://img.shields.io/badge/Hire_Me_On_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/yoosuf)
 [![Send an Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayoosuf@gmail.com)
 [![Book a Call](https://img.shields.io/badge/Book_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/yoosuf)
 
